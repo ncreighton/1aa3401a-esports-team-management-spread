@@ -1,2 +1,25 @@
-# 1aa3401a-esports-team-management-spread
-10 pre-built calculators, trackers, and dashboards for common Esports Team Management calculations. Instant spreadsheet tools without building from scratch.
+# Esports Team Management Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2bJ1eTt9Mwf44bzSd0p09)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2bJ1eTt9Mwf44bzSd0p09)
+
